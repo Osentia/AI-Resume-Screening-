@@ -1,7 +1,8 @@
-🤖 AI Resume Screener with Custom ML
+**🤖 AI Resume Screener with Custom ML**
 An AI-powered resume screening tool that matches resumes with job descriptions using machine learning techniques. Built using Python, TF-IDF, Cosine Similarity, and Logistic Regression — no external APIs or tokenizers required. Perfect for beginners and students in AI/ML and resume parsing projects.
 
 📌 Features
+
 ✅ Extracts text from PDF & image resumes (PNG, JPG)
 
 ✅ Loads job descriptions from CSV files
